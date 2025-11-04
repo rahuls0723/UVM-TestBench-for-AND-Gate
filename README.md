@@ -13,8 +13,9 @@ Includes :
 
 TestBench Architecture : 
 
-![AND GATE TB ARCHITECTURE](<img width="731" height="961" alt="image" src="https://github.com/user-attachments/assets/ba0a9a23-8243-41fd-9a75-46bc2225c967" />
-)
+AND GATE TB ARCHITECTURE
+<img width="731" height="961" alt="AND GATE TB ARCHITECTURE" src="https://github.com/user-attachments/assets/bfa6cb6b-e2ec-4848-ac6d-924ced631efa" />
+
 
 
 Output Result : 
