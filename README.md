@@ -13,7 +13,8 @@ Includes :
 
 TestBench Architecture : 
 
-![AND GATE TB ARCHITECTURE](https://user-images.githubusercontent.com/82656806/122431304-f6b2b500-cfb1-11eb-972d-d21dde811dfd.png)
+![AND GATE TB ARCHITECTURE](<img width="731" height="961" alt="image" src="https://github.com/user-attachments/assets/ba0a9a23-8243-41fd-9a75-46bc2225c967" />
+)
 
 
 Output Result : 
