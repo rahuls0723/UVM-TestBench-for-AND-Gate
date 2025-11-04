@@ -1,4 +1,4 @@
-# UVM_TestBench_For_And_Gate
+# UVM TestBench for AND Gate
 Simple and Complete UVM TestBench For Verification Of And Gate 
 
 
